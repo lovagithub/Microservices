@@ -1,0 +1,6 @@
+@TokenStore_HostAddress = http://localhost:5274
+
+GET {{TokenStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

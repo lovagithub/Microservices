@@ -1,0 +1,6 @@
+@FakturaStore_HostAddress = http://localhost:5140
+
+GET {{FakturaStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
